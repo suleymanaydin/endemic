@@ -161,11 +161,11 @@ Kisa tarihce || A short history of the document:
 <tr bgcolor="00000e"  onMouseover="this.style.backgroundColor='0f08e9'"  onMouseout="this.style.backgroundColor='00000e'">                <td><a href="#13"> &nbsp; &nbsp;        13.  Rosaceae                          </a> <br> </td> </tr>
 <tr bgcolor="00000e"  onMouseover="this.style.backgroundColor='0f08e9'"  onMouseout="this.style.backgroundColor='00000e'">                <td><a href="#14"> &nbsp; &nbsp;        14.  Rubiaceae                         </a> <br> </td> </tr>
 <tr bgcolor="00000e"  onMouseover="this.style.backgroundColor='0f08e9'"  onMouseout="this.style.backgroundColor='00000e'">                <td><a href="#15"> &nbsp; &nbsp;        15.  Rutaceae                          </a> <br> </td> </tr>
-<tr bgcolor="00000e"  onMouseover="this.style.backgroundColor='0f08e9'"  onMouseout="this.style.backgroundColor='00000e'">                <td><a href="#16"> &nbsp;           * 16.  Simaroubaceae (no endemic sp.)    </a> <br> </td> </tr>
-<tr bgcolor="00000e"  onMouseover="this.style.backgroundColor='0f08e9'"  onMouseout="this.style.backgroundColor='00000e'">                <td><a href="#17"> &nbsp;           * 17.  Tiliaceae --- (no endemic sp.)    </a> <br> </td> </tr>
+<tr bgcolor="00000e"  onMouseover="this.style.backgroundColor='0f08e9'"  onMouseout="this.style.backgroundColor='00000e'">                <td><a href="#16"> &nbsp;           _ 16.  Simaroubaceae (no endemic sp.)    </a> <br> </td> </tr>
+<tr bgcolor="00000e"  onMouseover="this.style.backgroundColor='0f08e9'"  onMouseout="this.style.backgroundColor='00000e'">                <td><a href="#17"> &nbsp;           _ 17.  Tiliaceae --- (no endemic sp.)    </a> <br> </td> </tr>
 <tr bgcolor="00000e"  onMouseover="this.style.backgroundColor='0f08e9'"  onMouseout="this.style.backgroundColor='00000e'">                <td><a href="#18"> &nbsp; &nbsp;        18.  Umbelliferae                      </a> <br> </td> </tr>
 <tr bgcolor="00000e"  onMouseover="this.style.backgroundColor='0f08e9'"  onMouseout="this.style.backgroundColor='00000e'">                <td><a href="#19"> &nbsp; &nbsp;        19.  Valerianaceae                     </a> <br> </td> </tr>
-<tr bgcolor="00000e"  onMouseover="this.style.backgroundColor='0f08e9'"  onMouseout="this.style.backgroundColor='00000e'">                <td><a href="#20"> &nbsp;           * 20.  Verbenaceae --(no endemic sp.)    </a> <br> </td> </tr>
+<tr bgcolor="00000e"  onMouseover="this.style.backgroundColor='0f08e9'"  onMouseout="this.style.backgroundColor='00000e'">                <td><a href="#20"> &nbsp;           _ 20.  Verbenaceae --(no endemic sp.)    </a> <br> </td> </tr>
 </font size>
 </table>
 
@@ -199,12 +199,12 @@ Kisa tarihce || A short history of the document:
         13.  Rosaceae          ........................        23
         14.  Rubiaceae         .......................         24
         15.  Rutaceae          ........................        25
-      * 16.  Simaroubaceae     ...................             25
-      * 17.  Tiliaceae         .......................         25
+      _ 16.  Simaroubaceae     ...................             25
+      _ 17.  Tiliaceae         .......................         25
         18.  Umbelliferae      ....................            25
         19.  Valerianaceae     ....................            27
-      * 20.  Verbenaceae       ......................          27
-
+      _ 20.  Verbenaceae       ......................          27
+
  
  
  
