@@ -18,7 +18,7 @@
 [ cite as: 
 <br> AYDIN, Suleyman: 
 <br> Aromatic and endemic plants of Turkey: A short list.  
-<br> https://github.com//suleymanaydin/endemic/blob/main/endemic.htm.
+<br> https://github.com//suleymanaydin/endemic/blob/main/README.md
 <br> accessed on: {your accession date}.
 ]
 </blockquote>
@@ -2321,8 +2321,10 @@ Anadolu University, Faculty of Pharmacy, Dept. Pharmacology 26470 Tepebasi - Esk
 
 
 	<hr width="%99"> 
-<p>  <b><i>SON NOT:</b></i> </font> Bu  belge, bir kac ekleme haric, <i> temmuz 1992</i> tarihinde yazildigi gibidir.   Düzeltilmesi ya da eklenmesini uygun gördügünüz noktalari lütfen <a href="mailto:saydin@anadolu.edu.tr"> iletiniz </a>.
-<br>  <b><i>  As a Last Note:</b></i> </font> Except minor additions made on April 2023, this document is in the old original  format as typed on, <i> July 1992</i>.
+<p>  <b><i>SON NOT:</b></i> </font> Bu  belge, bir kac ekleme haric, <i> temmuz 1992</i> tarihinde yazildigi gibidir.   
+	 Düzeltilmesi ya da eklenmesini uygun gördügünüz noktalari lütfen <a href="mailto:saydin@anadolu.edu.tr"> iletiniz </a>.
+<br>  <b><i>  As a Last Note:</b></i> </font> Except minor additions made on April 2023, this document is 
+	 in the old original  format as typed on, <i> July 1992</i>.
 <br> Any suggestions or modifications are welcome  using the e.mail address below: <br> <a href="mailto:saydin@anadolu.edu.tr"> saydin@anadolu.edu.tr </a>.
 
 
