@@ -1,6 +1,6 @@
 # endemic
 " Aromatic and endemic plants of Turkey: A short list "
-<p> This list is ablut endemic species of the flora of Turkey and east Aegean islands.
+<p> This list is about endemic species of the flora of Turkey and east Aegean islands, specially about the <i>aromatic</i> species.
 <br> [ some of the families, but not all of them ]
 <br> This is an old document, almost forgotten for some years.
 <br> But for a reason, it was re_discovered and only two families were recently updated [ typed inside the document ] 
