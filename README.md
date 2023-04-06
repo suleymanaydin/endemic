@@ -18,7 +18,7 @@
 [ cite as: 
 <br> AYDIN, Suleyman: 
 <br> Aromatic and endemic plants of Turkey: A short list.  
-<br> https://github.com//suleymanaydin/endemic/endemic.htm.
+<br> https://github.com//suleymanaydin/endemic/blob/main/endemic.htm.
 <br> accessed on: {your accession date}.
 ]
 </blockquote>
