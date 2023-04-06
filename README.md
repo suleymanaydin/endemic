@@ -29,8 +29,7 @@
 <hr>
 
 <html>
- <head>
-  <title> Dr. Suleyman AYDIN; dergiler sayfasi </title>
+ <head>  
    <meta name="description" content="Suleyman AYDIN,aromatic and endemic plant list of Turkey ">
    <meta name="author" content="Suleyman AYDIN">
    <meta name="keywords" content="Suleyman AYDIN, Ph.D., pharmacologist, pharmacology, farmakolog, lecturer, Anadolu Universitesi, Anadolu University, pharmacy, eczacilik, natural product, screening, plant, drug, arzneipflanzen ">
@@ -2321,7 +2320,7 @@ Anadolu University, Faculty of Pharmacy, Dept. Pharmacology 26470 Tepebasi - Esk
 
 
 
-</blockquote></blockquote></pre> <center> <hr width="%99"> 
+	<hr width="%99"> 
 <p>  <b><i>SON NOT:</b></i> </font> Bu  belge, bir kac ekleme haric, <i> temmuz 1992</i> tarihinde yazildigi gibidir.   Düzeltilmesi ya da eklenmesini uygun gördügünüz noktalari lütfen <a href="mailto:saydin@anadolu.edu.tr"> iletiniz </a>.
 <br>  <b><i>  As a Last Note:</b></i> </font> Except minor additions made on April 2023, this document is in the old original  format as typed on, <i> July 1992</i>.
 <br> Any suggestions or modifications are welcome  using the e.mail address below: <br> <a href="mailto:saydin@anadolu.edu.tr"> saydin@anadolu.edu.tr </a>.
@@ -2337,3 +2336,5 @@ Anadolu University, Faculty of Pharmacy, Dept. Pharmacology 26470 Tepebasi - Esk
 <!-- edit tarihi: 05.11.2003 20:43 Prof. Dr. Ersin Yücel'in istegini yerine getirmek için... (suleyman) -->
 <!-- son edit tarihi: 03.04.2023 23:23  Labiatae ve Guttiferae icin vol.11 'deki bilgiler girildi  (suleyman; slackware Linux; vi) --> 
 </html>
+</blockquote></blockquote></pre> <center> 
+	
