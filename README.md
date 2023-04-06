@@ -15,12 +15,12 @@
 <p> And of course, due to the <i> ethical code of scientific behaviour,</i>  any one using this list for a publication is expected to <b>cite</b> this document:
 <p>
 <blockquote> 
-<blockquote>
 [ cite as: 
 <br> AYDIN, Suleyman: 
 <br> Aromatic and endemic plants of Turkey: A short list.  
 <br> https://github.com//suleymanaydin/endemic/endemic.htm.
 <br> accessed on: {your accession date}.
 ]
-  <hr>
-<p> (( suleyman ; saydin@anadolu.edu.tr ))
+</blockquote>
+<hr>
+<p> (( suleyman ; <a href="mailto:saydin@anadolu.edu.tr">  saydin@anadolu.edu.tr  </a> ))
